@@ -6,7 +6,7 @@
     "main": "wwwroot/index.html",
     "license": "FHLB Dallas 2021",
     "namespace": "FHLB.SecureConnect.Web",
-    "private": true,
+    "private": false,
     "dependencies": {
         "@angular/animations": "^11.2.7",
         "@angular/common": "^11.2.7",
